@@ -4,7 +4,7 @@
   "description": "Enable imagesLoaded option for Flickity",
   "main": "flickity-imagesloaded.js",
   "dependencies": {
-    "flickity": "^2.0.0",
+    "flickity": "metafizzy/flickity#3d1172938a763f695020491d2650497d159fed5b",
     "imagesloaded": "^4.1.0"
   },
   "devDependencies": {},
